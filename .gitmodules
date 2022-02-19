@@ -1,0 +1,3 @@
+[submodule "molvecgen"]
+	path = molvecgen
+	url = https://github.com/EBjerrum/molvecgen
